@@ -1,0 +1,39 @@
+.description-text h1{
+  font-family:Open Sans; 
+  font-size:36px;
+  font-weight:bold;
+  color:rgb(100, 67, 112);
+}
+.description-text h2{
+  font-family:Allerta;
+  font-size:16px;
+  font-weight:normal;
+  color:rgb(152, 89, 101);
+}
+.description-text p{
+  color:rgb(63, 58, 70);
+  font-family:Sans-serif;
+  font-size:14px;
+  text-align: justify;
+}
+.description-text a{
+  text-decoration: none;
+  color:rgb(184, 201, 1);
+  font-family:Sans-serif;
+  font-size:14px;
+  font-weight:bold;
+}
+.description-text a:hover{
+  color:rgb(191, 93, 144);
+}
+.photo{
+ background:url(https://mohegansun.com/content/dam/mohegansun/Images/Entertainment/Entertainers/2014/Headers/Header-Ariana_Grande-628x378.jpg);
+  background-size:cover;
+  height:300px;
+}
+h1{
+  font-family:Open Sans; 
+  font-size:36px;
+  font-weight:bold;
+  color:rgb(100, 67, 112);
+}
