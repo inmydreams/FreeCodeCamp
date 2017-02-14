@@ -1,0 +1,26 @@
+.container{
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.btn-success{
+  margin:25px;
+}
+.btn-primary{
+  margin-top:15px;
+}
+.well{
+  background: rgba(255, 255, 255, 0.5);
+}
+body{
+background:url(https://static.pexels.com/photos/52903/pexels-photo-52903.jpeg);
+background-size:cover;
+}
+#quote h1{
+  font-family: 'Hammersmith One';
+}
+#quote h2{
+  font-family: 'Satisfy';
+}
