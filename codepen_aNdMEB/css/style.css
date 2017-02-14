@@ -1,0 +1,18 @@
+.form-group {
+  width: 90%;
+  margin: 10px 5%;
+}
+
+.operator, .num, .equals {
+  width: 30%;
+  margin: 2px 0px;
+}
+
+#display {
+  padding: 0px;
+  color: black;
+  font-size: 27px;
+  overflow: scroll;
+  height: 40px;
+  font-family: Ubuntu;
+}
