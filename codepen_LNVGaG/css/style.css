@@ -1,0 +1,24 @@
+.img-responsive{
+  width:150px;
+  height:150px;
+}
+.btn-group{
+  margin:20px;
+}
+.input-group{
+  margin-bottom:20px;
+}
+.displayName{
+  color:black;
+  font-family:'Open Sans';
+  font-size:18px;
+}
+.description{
+  font-family:'Open Sans';
+}
+.link{
+  text-decoration:none !important;
+  color:black !important;
+  font-family:Cabin;
+  font-size:20px;
+}
