@@ -1,0 +1,66 @@
+body{
+  background:url(https://static.pexels.com/photos/232/apple-iphone-books-desk.jpg);
+  background-size:cover;
+}
+#search-box{
+  background:rgb(103,176,209);
+  border-width:0;
+}
+.form-group{
+  margin-top:20px;
+}
+#search{
+  background:rgb(76,157,193);
+  color:white;
+  border-width:0px;
+  height:40px;
+}
+.input-group-addon{
+  background:rgb(76,157,193);
+  color:white;
+  border-width:0px;
+}
+input::-webkit-input-placeholder {
+color: white !important;
+}
+#item{
+  color:rgb(119,107,94);
+  border-width:0px;
+  background:rgba(255,255,255,0.8)
+}
+#item strong{
+  font-family:Open Sans;
+  font-size:25px;
+  font-weight:bold;
+}
+#item p{
+  font-size:18px;
+}
+#item a{
+  color:rgb(119,107,94);
+  font-weight:bold;
+}
+#item:hover{
+  border-left-width:20px;
+  border-color:rgb(119,107,94);
+}
+#logo h1{
+  margin:0;
+  padding:20px;
+  font-family: 'Yellowtail';
+  font-size:40px;
+  color:white;
+}
+.btn-default{
+  margin-top:20px;
+  margin-bottom:20px;
+  border-width:0px;
+  background:rgb(76,157,193);
+  height:40px;
+  font-size:18px;
+  color:white;
+}
+.btn-default:hover{
+  background:white;
+  color:rgb(76,157,193);
+}
