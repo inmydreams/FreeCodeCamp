@@ -1,0 +1,73 @@
+.navbar{
+  background:#111111;
+  border: 0;
+}
+.navbar-default .navbar-nav > li > a{
+    color: white;
+}
+.navbar-default .navbar-nav > li > a:hover{
+  color:#3498DB;
+}
+.navbar-default .navbar-brand{
+     color: white;
+}
+.navbar-default .navbar-brand:hover{
+     color: #3498DB;
+}
+#home{
+  padding-top:100px;
+ background:url(http://4.bp.blogspot.com/-4tn4ZQ_8kQY/VFHtz4pzPsI/AAAAAAAAAXU/XXUBc-4NYxI/s1600/index.png);
+  background-size:cover;
+}
+#header-text{
+  font-family:ubuntu;
+  color:white;
+  font-size:45px;
+  -webkit-text-stroke: 1px black;
+}
+hr{
+  border: 2px solid rgb(22, 160, 133);
+  outline: 1px solid black;
+  width:80px;
+}
+.fa-heart{
+  color:red;
+}
+.col-sm-4{
+  padding:80px;
+}
+.fa-coffee, .fa-lightbulb-o, .fa-flask{
+  color:#3498DB;
+  -webkit-text-stroke: 1px black;
+}
+h2{
+  font-family:Lato;
+  font-size:30px;
+  color:white;
+  -webkit-text-stroke: 1px black;
+}
+h3{
+  color:white;
+  font-family:Roboto Condensed;
+  font-size:25px;
+}
+.navbar-nav> .active > a{
+  color:#111111 !important;
+  background:#3498DB !important;
+}
+.header-text{
+  color:#2c3e50;
+  font-size:45px;
+  font-family:Lato;
+  font-weight:300;
+  padding-top:40px;
+  padding-bottom:50px;
+}
+.img-place{
+  padding-bottom:30px;
+}
+#copyright{
+  background:#111111;
+  color:white;
+  padding:20px;
+}
