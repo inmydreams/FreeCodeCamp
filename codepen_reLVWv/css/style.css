@@ -1,0 +1,52 @@
+body {
+  background: url(http://www.perezventana.es/blog/wp-content/uploads/tomates.jpg);
+  background-size: cover;
+  color: white;
+}
+
+h1 {
+  font-family: "Pacifico";
+  line-height: 100px;
+  font-size: 80px;
+  padding-bottom: 20px;
+}
+
+.well {
+  height: 80px;
+  border: 0px;
+}
+
+#clock {
+  background: #25bf75;
+  font-size: 30px;
+  font-family: "Montserrat";
+}
+
+#clock.break {
+  background: #e06697;
+}
+
+#break, #work {
+  line-height: 60px;
+  height: 60px;
+  font-size: 30px;
+  font-family: "Montserrat";
+}
+
+.fa-minus, .fa-plus {
+  background: #f4b01c;
+  display: block;
+  line-height: 60px;
+  border-radius: 5px;
+}
+
+h3 {
+  font-family: "Satisfy";
+  font-size: 30px;
+}
+
+#reset {
+  margin: 50px;
+  background: transparent;
+  border: 0px;
+}
