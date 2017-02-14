@@ -1,0 +1,40 @@
+body{
+  color:white;
+  background:url(https://static.pexels.com/photos/1486/wood-pattern-ground-parquet-floor.jpg);
+  background-size:cover;
+}
+.selected{
+  color:rgb(121, 120, 180);
+}
+#celsius, #fahrenheit{
+  cursor:pointer;
+}
+#celsius:hover,#fahrenheit:hover{
+  color:rgb(121, 120, 180);
+}
+#location{
+  font-family:Open Sans;
+  font-size:36px;
+  font-weight:bold;
+}
+#conditions h2{
+  font-family:Open Sans;
+  font-size:30px;
+}
+#icon img{
+  width:200px;
+}
+#current_temp h3{
+  display:inline-block;
+  font-family:Montserrat;
+  font-size:70px;
+}
+#right{
+  background:rgba(211, 231, 26, 0.5);
+}
+#left{
+  background:rgba(121, 120, 180, 0.5);
+}
+#temp{
+  line-height:302px;
+}
