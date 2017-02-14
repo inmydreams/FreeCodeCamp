@@ -1,0 +1,39 @@
+.game-button {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.btn {
+  margin-bottom: 20px;
+}
+
+#green {
+  background: #00bf7d;
+  border-radius: 200px 0 0;
+}
+
+#red {
+  background: #cb355f;
+  border-radius: 0 200px 0 0;
+}
+
+#blue {
+  background: #31a1ec;
+  border-radius: 0 0 200px;
+}
+
+#yellow {
+  background: #ffcb55;
+  border-radius: 0 0 0 200px;
+}
+
+.game-name {
+  font-family: "Knewave";
+  font-size: 88px;
+}
+
+.pushed {
+  background-color: #000000 !important;
+}
